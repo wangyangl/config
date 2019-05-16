@@ -1,0 +1,4 @@
+spring:
+  name: name 
+sever:
+  port: 8014
